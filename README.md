@@ -1,14 +1,28 @@
-### Hello there 👋
+# Hello there 👋
 
 
 I'm Joel, a *media computer science* student based in Germany.
 
 I'm currently at the start of my Game dev journey, but I would like to expand my general understanding of coding.
 
+---
 
-####🌱 What I am currently working on : 
+### 🌱  What I am currently working on : 
 - IT: Working on my C# certificate
-- Games: Working on my first game 
+- Games: Working on my first game
+  
+---
+
+### 🛠️ Tools that I use:
+````Coding````
+- C#
+- C++ (eventually)
+  
+````Game developpemnt````
+- Aseprite
+- Godot
+  
+---
 <!--
 **Jelospirit/Jelospirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
