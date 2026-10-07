@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Joel, a media & IT student based in Germany.
+I'm Joel, a *media computer science* student based in Germany.
 
 I'm currently at the start of my Game dev journey, but I would like to expand my general understanding of coding.
 
