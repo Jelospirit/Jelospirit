@@ -13,7 +13,7 @@ I'm currently at the start of my Game dev journey, but I would like to expand my
   
 ---
 
-### 🛠️ Tools that I use:
+### 🛠️ Tools that I use :
 ````Coding````
 - C#
 - C++ (eventually)
