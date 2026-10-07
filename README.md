@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+I'm Joel, a media & IT student based in Germany.
+
 <!--
 **Jelospirit/Jelospirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
