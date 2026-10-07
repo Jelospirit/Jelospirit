@@ -1,4 +1,4 @@
-#### Hello there 👋
+### Hello there 👋
 
 
 I'm Joel, a *media computer science* student based in Germany.
@@ -6,7 +6,7 @@ I'm Joel, a *media computer science* student based in Germany.
 I'm currently at the start of my Game dev journey, but I would like to expand my general understanding of coding.
 
 
-####🌱 What I am currently working on : ####
+####🌱 What I am currently working on : 
 - IT: Working on my C# certificate
 - Games: Working on my first game 
 <!--
