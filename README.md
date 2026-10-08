@@ -5,7 +5,8 @@ I'm Joel, a *media computer science* student based in Germany.
 
 I'm currently at the start of my Game dev journey and my developer journey in general.
 
-I love making games, solving code problems and building things myself from scratch.
+I love making games, solving code problems and building mechanics etc. from scratch.
+I enjoy deepening my code understanding.
 
 ---
 
