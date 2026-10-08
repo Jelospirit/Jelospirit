@@ -3,7 +3,7 @@
 
 I'm Joel, a *media computer science* student based in Germany.
 
-I'm currently at the start of my Game dev journey, but I would like to expand my general understanding of coding.
+I'm currently at the start of my Game dev journey and my developer journey in general.
 
 ---
 
@@ -27,8 +27,12 @@ I'm currently at the start of my Game dev journey, but I would like to expand my
 ---
 
 ### 📨 How to reach me :
-- Per Email is the at 24wafeumba@gmail.com
-- per itch.io [Jelospirit](https://jelospirit.itch.io)
+- You can contact me per Email at 24wafeumba@gmail.com
+
+---
+
+### 🎮 My Games 🕹️ :
+- You can find my stuff on itch.io [Jelospirit](https://jelospirit.itch.io)
 
 ---
 
