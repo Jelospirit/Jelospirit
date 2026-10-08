@@ -37,7 +37,14 @@ I'm currently at the start of my Game dev journey, but I would like to expand my
 - I like tea
 - __Made in Abyss__ is my favorite Anime
 - Kingdom Hearts 358\2 days is my favorite game
-- **Hobbies :** Games, Art, Skating, Writing and reading,
+
+---
+
+### 🧩 Hobbies: 
+- Games, Game dev, Coding
+-  Art, Skating, Writing and reading
+
+---
 <!--
 **Jelospirit/Jelospirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
