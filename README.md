@@ -21,6 +21,8 @@ I'm currently at the start of my Game dev journey, but I would like to expand my
 ````Game developpemnt````
 - Aseprite
 - Godot
+- Unity
+- Blender
   
 ---
 <!--
