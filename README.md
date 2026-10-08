@@ -21,10 +21,23 @@ I'm currently at the start of my Game dev journey, but I would like to expand my
 ````Game developpemnt````
 - Aseprite
 - Godot
-- Unity
+- Unity (eventually)
 - Blender
   
 ---
+
+### 📨 How to reach me :
+- Per Email is the at 24wafeumba@gmail.com
+- per itch.io [Jelospirit](https://jelospirit.itch.io)
+
+---
+
+### ⚡ Fun fact :
+- I can speak 3 languages (German, French & English) and am currently learning my Korean
+- I like tea
+- __Made in Abyss__ is my favorite Anime
+- Kingdom Hearts 358\2 days is my favorite game
+- **Hobbies :** Games, Art, Skating, Writing and reading,
 <!--
 **Jelospirit/Jelospirit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,6 +50,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact:
+-  Fun fact:
 
 -->
