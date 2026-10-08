@@ -5,6 +5,8 @@ I'm Joel, a *media computer science* student based in Germany.
 
 I'm currently at the start of my Game dev journey and my developer journey in general.
 
+I enjoy deepening my code understanding.
+
 ---
 
 ### 🌱  What I am currently working on : 
